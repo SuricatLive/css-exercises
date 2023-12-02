@@ -1,0 +1,19 @@
+.normal {
+    background-color: #f7728f;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#second {
+    color: rgb(13, 25, 255);
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #a3f899;
+    font-weight: 700;
+}
+
